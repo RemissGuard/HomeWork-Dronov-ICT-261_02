@@ -29,7 +29,8 @@ raznitsa = price_RR - price_FE;
 
 ### БЛОК-СХЕМА
 
-<img width="308" height="562" alt="Дронов_бИЦТ-261_ДЗ_02 drawio" src="https://github.com/user-attachments/assets/9b651924-785f-432f-a8bd-510e25cdd627" />
+<img width="308" height="562" alt="Дронов_бИЦТ-261_ДЗ_02 drawio" src="https://github.com/user-attachments/assets/5c6c1f6c-265b-4278-8b3a-e8f5a2e0af03" />
+
 
 ## **2. Реализация программы**
 ```
